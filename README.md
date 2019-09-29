@@ -24,10 +24,4 @@ Applications :
   3. Bowtie alignment file generated using file prepared in 2. and reference genome/pre-miRNAs.
   4. Target sequence file (fasta format,optional).
 
-  New Features (version 0.3):
-  1. Results can be saved as session file (.mod).
-  2. cross-platform command line version is now included in miRMOD package.
-  3. miRNA score table to present its relative tendency to get modified.
- 
-
- For more information about miRMOD please read manual.
+  For more information about miRMOD please read manual.
