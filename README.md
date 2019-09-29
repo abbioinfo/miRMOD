@@ -8,7 +8,7 @@ miRMOD is the cross-platform standalone GUI/CLI tool, written on C# language, to
   
   Prerequisite
 
-    Operating system: Windows XP, vista, 7 or 8/10 (recommended). Command line version of miRMOD is OS independent.
+    Operating system: Windows (GUI). Command line version of miRMOD is OS independent.
     Environment: .NET Framework 4 or above*
     Third party software: RNAhybrid (optional; included in miRMOD package).
 
