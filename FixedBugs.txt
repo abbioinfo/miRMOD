@@ -1,0 +1,7 @@
+Following bug was found in previous version 0.1 :
+
+BUG: If data in datagridview exceeds its column number limit then unhandled exception error occur.
+Status: Resolved by OTG file formation.
+
+
+We are currently working on miRMOD improvement. Please report any bug or suggestion at dinesh@icgeb.res.in
