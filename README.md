@@ -1,14 +1,14 @@
-# miRMOD
+# miRMOD version 0.4
 miRNA modification prediction tool
 http://bioinfo.icgeb.res.in/miRMOD/
 
-miRMOD is the cross-platform standalone GUI/CLI tool to identify and analyze non templated nucleotide additions and trimming
-at both the termini of the miRNA sequences in NGS data. It provides useful statistics like kinds of miRNA modifications and
-its frequencies, differential miRNA-modified miRNA abundance and frequencies of the modified bases found in each of the
-modifications. miRMOD also analyzes differences in miRNA target interactions. This kind of detailed analysis helps understand
-global as well as micro level miRNA modifications in NGS datasets. miRMOD provides user-friendly graphical representations
-to visualize miRNA modifications and target predictions in different formats to facilitate HT data analysis even on your laptop .
-miRMOD is also available in command line version to reach broad range of users.
+miRMOD is the cross-platform standalone GUI/CLI tool, written on C# language, to identify and analyze non templated nucleotide additions and trimming at both the termini of the miRNA sequences in NGS data. It provides useful statistics like kinds of miRNA modifications and its frequencies, differential miRNA-modified miRNA abundance and frequencies of the modified bases found in each of the modifications. miRMOD also analyzes differences in miRNA target interactions. This kind of detailed analysis helps understand global as well as micro level miRNA modifications in NGS datasets. miRMOD provides user-friendly graphical representations to visualize miRNA modifications and target predictions in different formats to facilitate HT data analysis even on your laptop .
+
+  Prerequisite
+      Operating system: Windows XP, vista, 7 or 8/10 (recommended). Command line version of miRMOD is OS independent.
+      Environment: .NET Framework 4 or above*
+      Third party software: RNAhybrid (optional; included in miRMOD package).
+
 
 Applications :
   1. Predicts modified miRNAs (5' and/or 3' non-templated nucleotide additions and trimming) .
